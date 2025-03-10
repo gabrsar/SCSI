@@ -3,10 +3,10 @@
 class GAB {
 
 
-    private $usuario = "borsari";
-    private $senha = "L1lr0*dfme2V";
+    private $usuario = "usuario";
+    private $senha = "senha";
     private $enderecoDoBanco = "localhost";
-    private $banco = "sistema_borsari";
+    private $banco = "banco";
 
     public function getUsuario() {
         return $this->usuario;
